@@ -16,6 +16,7 @@
 - [Suraj Yadav](https://github.com/suraj-yadav0)
 - [Donald Nwokoro](https://github.com/donguillotine)
 - [Ullas Kakanadan](https://github.com/uk974q)
+- [Ranjeet Singh](https://github.com/ranjeetxsingh)
 - [Bhawana Gaur](https://github.com/bhawana2001)
 - [Abhishik karmakar](https://github.com/AbhisKarma/)
 - [Nithin](https://github.com/nithin-0111/)
